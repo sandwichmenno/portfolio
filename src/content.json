@@ -1,0 +1,73 @@
+{
+  "projects": {
+    "slnt": {
+      "introduction": {
+        "heading": "SLNT.stream",
+        "text": "SLNT.stream is a passion project with some friends. With SLNT we provide a way for streamers to sync videos in realtime with its viewers to prevent DMCA and copyright strikes, so that streamers can stream music again.",
+        "technologies": ["ReactJS", "Typescript", "Jest", "NodeJS", "Socket.IO", "REST API", "OAuth", "Redis", "NGINX", "PostgreSQL", "Product Owner"]
+      },
+      "tasks": [
+        "Use websockets to sync videos between the streamer and its viewers with the stream delay in mind",
+        "Connect Youtube and Twitch API to the platform",
+        "Developing a Chrome extension that is connected to the NodeJS backend",
+        "Create a Twitch and Youtube bot to add video requests to the streamers playlist",
+        "Setup server environment with NGINX"
+      ],
+      "results": {
+        "heading": "Results",
+        "text": "SLNT.stream is currently being marketed to and tested by streamers. As soon as the BETA phase is over, I will update this page with the results."
+      }
+    },
+    "kpn": {
+      "introduction": {
+        "heading": "KPN",
+        "text": "Peerpep is a company that is committed to activate people to exercise more through gaming based on physical effort. Peerpep offers, among other things, a portal and an mobile application where users can follow exercises and create competitions.",
+        "technologies": ["StencilJS", "ReactJS", "AngularJS", "Typescript", "Jest", "Cypress", "Sass"]
+      },
+      "tasks": [
+        "Develop the online portal in ReactJS with an authentication system that communicates with a Rest API",
+        "Designing and documenting functionalities for both the web and mobile application in Figma",
+        "Manage the agile development of the mobile application (product owner role)"
+      ],
+      "results": {
+        "heading": "Results",
+        "text": "Thanks to my contribution, the old portal used for this has been improved both visually and technically. The portal has been tested by 100 people, and users understand the purpose of PeerPep and this platform better, and navigating around has improved significantly. It is also easier to expand the platform with new features because newer techniques are used."
+      }
+    },
+    "godo": {
+      "introduction": {
+        "heading": "GoDo",
+        "text": "GoDo is a recruitment company specialized in recruiting IT professionals. The website and corporate identity of GoDo needed an overhaul to ensure an increase in applications and to improve the candidate journey.",
+        "technologies": ["Wordpress", "PHP", "Ajax", "Bullhorn", "REST API", "Figma", "User Experience Design", "User Experience Research", "Prototyping", "Customer Journey Mapping", "Wireframing", "Usability Testing"]
+      },
+      "tasks": [
+        "Perform user research on the target group using user interviews, competition analysis, expert reviews, context mapping and surveys",
+        "Generating ideas and designs based on results of user research using card sorting, crazy 8s, personas, customer journey maps and wireframes",
+        "Creating a interactive prototype with Figma (mobile first)",
+        "Test the designs using co-reflection, peer reviews, usability testing",
+        "Building a custom Wordpress theme using HTML, CSS, Javascript and PHP",
+        "Implementing Bullhorn (CRM system) with AJAX and PHP"
+      ],
+      "results": {
+        "heading": "Results",
+        "text": "At the end of the project I delivered a website that meets the needs of IT professionals that were searching for a job. In addition, I have gained a lot of knowledge about the processes that job-seeking IT professionals go through and what points for improvement there are in that specific customer journey"
+      }
+    },
+    "peerpep": {
+      "introduction": {
+        "heading": "Peerpep",
+        "text": "Peerpep is a company that is committed to activate people to exercise more through gaming based on physical effort. Peerpep offers, among other things, a portal and an mobile application where users can follow exercises and create competitions.",
+        "technologies": ["ReactJS", "REST API", "Figma", "Agile", "User Experience Design", "Product Owner"]
+      },
+      "tasks": [
+        "Develop the online portal in ReactJS with an authentication system that communicates with a Rest API",
+        "Designing and documenting functionalities for both the web and mobile application in Figma",
+        "Manage the agile development of the mobile application (product owner role)"
+      ],
+      "results": {
+        "heading": "Results",
+        "text": "Thanks to my contribution, the old portal used for this has been improved both visually and technically. The portal has been tested by 100 people, and users understand the purpose of PeerPep and this platform better, and navigating around has improved significantly. It is also easier to expand the platform with new features because newer techniques are used."
+      }
+    }
+  }
+}
